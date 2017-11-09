@@ -1,2 +1,2 @@
 # invie-github
-Tus mejores guitarras invisibkes
+Tus mejores guitarras invisibles by platzi
